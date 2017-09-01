@@ -1,0 +1,26 @@
+{
+  "name": "primerproyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliLV21/PruebaAngularJs.git"
+  },
+  "author": "Miriam Elizabeth Laguna Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliLV21/PruebaAngularJs/issues"
+  },
+  "homepage": "https://github.com/EliLV21/PruebaAngularJs#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.4",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1"
+  }
+}
